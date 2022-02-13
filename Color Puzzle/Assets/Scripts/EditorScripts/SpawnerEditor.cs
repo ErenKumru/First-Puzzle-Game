@@ -5,6 +5,8 @@ using UnityEditor;
 using System.Reflection;
 using System.Linq;
 
+#if UNITY_EDITOR
+
 [CanEditMultipleObjects]
 [CustomEditor(typeof(Spawner))]
 public class SpawnerEditor : Editor
@@ -84,3 +86,5 @@ public class SpawnerEditor : Editor
         }
     }
 }
+
+#endif
