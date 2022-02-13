@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using System.Linq;
 using TMPro;
 
@@ -8,6 +9,7 @@ public class LevelEndingController : MonoBehaviour
 {
     [SerializeField] private TMP_Text congratulationText;
     [SerializeField] private GameObject image;
+    [SerializeField] private GameObject nextLevelButton;
     private List<Swapper> swappers;
 
     private void OnEnable()
@@ -26,6 +28,8 @@ public class LevelEndingController : MonoBehaviour
         {
             congratulationText.enabled = true;
             image.SetActive(true);
+
+            nextLevelButton.SetActive(true);
         }
     }
 
