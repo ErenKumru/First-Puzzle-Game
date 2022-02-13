@@ -23,8 +23,6 @@ public class Swapper : MonoBehaviour
     
     private void OnMouseDown()
     {
-        Debug.Log("OnMouseDown");
-
         Tile tile = GetComponent<Tile>();
         //Interact with the swappable tile
         if(tile.tileType == Tile.Type.Swappable)
@@ -42,7 +40,7 @@ public class Swapper : MonoBehaviour
         else if (tile.tileType == Tile.Type.Pinned)
         {
             isDraggable = false;
-            Debug.Log("This tile is pinned! You can't move it!");
+            GetComponent<Animator>().Rebind();
         }
         //Different type of tile or something went wrong! -> Log a warning.
         else
@@ -56,8 +54,6 @@ public class Swapper : MonoBehaviour
     {
         if (isDraggable)
         {
-            Debug.Log("OnMouseDrag");
-
             Vector2 currentInputPosition = mainCamera.ScreenToWorldPoint(Input.mousePosition);
             Vector2 inputDifference = currentInputPosition - initialInputPosition;
             if(!isDragging) isDragging = inputDifference.magnitude > draggingThresholdDistance;
@@ -71,8 +67,6 @@ public class Swapper : MonoBehaviour
 
     private void OnMouseUp()
     {
-        Debug.Log("OnMouseUp");
-
         if(isDraggable)
         {
             Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
@@ -92,6 +86,7 @@ public class Swapper : MonoBehaviour
                 //Over a pinned tile -> Inform the user with animation and put the tile back to its initial place
                 else if (tileToSwapType == Tile.Type.Pinned)
                 {
+                    tileToSwap.GetComponent<Animator>().Rebind();
                     PutBackTile();
                 }
                 //Over a different type of tile or something went wrong! -> (Put the tile back to its initial place) and Log a warning.

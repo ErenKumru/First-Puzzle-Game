@@ -188,7 +188,6 @@ public class Spawner : MonoBehaviour
     //Only works when you have X-by-X (a.k.a Square) image
     private void Cross()
     {
-        Debug.Log("Cross is called");
         int crossCount = 0;
 
         int maxColumn = NumOfColumns - 1;
