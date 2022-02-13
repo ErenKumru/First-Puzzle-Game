@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 929266164002118341}
   - component: {fileID: 7638211965338741600}
   - component: {fileID: 7356783598676951238}
+  - component: {fileID: 8624661519093147036}
   m_Layer: 6
   m_Name: PinnedPrefab
   m_TagString: Untagged
@@ -82,7 +83,7 @@ SpriteRenderer:
   m_Size: {x: 2.252, y: 1.8751408}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!61 &929266164002118341
@@ -136,5 +137,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49e7a24ec8eae7f47aff74cd11d4fc0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiles: {fileID: 0}
   draggingThresholdDistance: 1
+--- !u!95 &8624661519093147036
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 737498493761767241}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 81b0f59a184755c4f8ca27b2e7bdb2f0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
