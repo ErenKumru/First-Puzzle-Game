@@ -30,7 +30,7 @@ Musics by [Riot Games](https://sessions.riotgames.com/en-us/event/sessions/) -> 
 - Easy-to-use custom Unity Editors
 - Open to further development & innovations
 
-### Notes
+### Restrictions & Notes
 - **This project is a non-commercial, non-profitable public project for personal use**
 - **Illustrations** are **OWNED** by the **Artist** & **CAN NOT be used by any individual without DIRECT PERMISSION by the Illustrator.** Please, use the provided links to communicate before anything!
 - Can be thought of as an open to experiment whiteboard
