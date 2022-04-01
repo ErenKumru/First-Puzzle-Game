@@ -1,14 +1,14 @@
 # Color Puzzle (To Be Changed)
 Color Puzzle is a 2D Hand-Drawn Tile Puzzle game demo Developed by [Eren Kumru](https://github.com/ErenKumru) and Illustrated by [Tanya Sena Kocatürkmen](https://www.artstation.com/tanymandias)
 
-#### Socials & Links
-Eren Kumru
+### Socials & Links
+#### Eren Kumru
 
 [Github](https://github.com/ErenKumru)
 
 [LinkedIn](https://www.linkedin.com/in/erenkumru/)
 
-Tanya Sena Kocatürkmen
+#### Tanya Sena Kocatürkmen
 
 [ArtStation](https://www.artstation.com/tanymandias)
 
