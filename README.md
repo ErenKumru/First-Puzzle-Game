@@ -19,7 +19,19 @@ Musics by [Riot Games](https://sessions.riotgames.com/en-us/event/sessions/) -> 
 - Level based jigsaw/tile puzzles
 - Unique, beautiful, hand-drawn illustrations
 - Unique & carefully designed puzzle patterns
-- 
+- Comfortable, soothing & uplifting musics
+- Simple & fun gameplay
+
+### About The Development
+- Made with Unity & C#
+- Utilizing ScriptableObject
 - Extremely easy to add new levels & features
-- Easy to develop design pattern
-- Color Puzzle is a non-commercial personal project
+- Easy-to-learn & develop flexible design pattern
+- Easy-to-use custom Unity Editors
+- Open to further development & innovations
+
+### Notes
+- This project is a non-commercial, non-profitable public project for personal use
+- Can be thought of as an open to experiment whiteboard
+- Anyone can fork or download the project for studying & experimenting
+- Any project that is based on this project MUST be a non-commercial, non-profitable public project & MUST mention this github repository DIRECTLY!
