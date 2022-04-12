@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 9e2c3d1721fbed34c8c43ceb6a9406e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8286494886871900245
+    second: Majima_0
+  - first:
+      213: 7339896632393994169
+    second: Majima_1
+  - first:
+      213: 4777456316993232132
+    second: Majima_2
+  - first:
+      213: 741965952505754889
+    second: Majima_3
+  - first:
+      213: -8045111833744274365
+    second: Majima_4
+  - first:
+      213: 6818862361227614549
+    second: Majima_5
+  - first:
+      213: -4125603146856779097
+    second: Majima_6
+  - first:
+      213: 1356185610041738221
+    second: Majima_7
+  - first:
+      213: 4370661053957674528
+    second: Majima_8
+  - first:
+      213: -3185533212804656885
+    second: Majima_9
+  - first:
+      213: -410861750026883375
+    second: Majima_10
+  - first:
+      213: 4570459353825385456
+    second: Majima_11
+  - first:
+      213: 3497970441455593478
+    second: Majima_12
+  - first:
+      213: -990694955751736955
+    second: Majima_13
+  - first:
+      213: 1024974378450428981
+    second: Majima_14
+  - first:
+      213: 3012871764388609330
+    second: Majima_15
+  - first:
+      213: 4133418437724888625
+    second: Majima_16
+  - first:
+      213: 4610837486807288334
+    second: Majima_17
+  - first:
+      213: 5276742401204696645
+    second: Majima_18
+  - first:
+      213: 5170852591052343273
+    second: Majima_19
+  - first:
+      213: -4145423032305239706
+    second: Majima_20
+  - first:
+      213: -5008480040219810388
+    second: Majima_21
+  - first:
+      213: -5319486114008672828
+    second: Majima_22
+  - first:
+      213: -8365974757946519582
+    second: Majima_23
+  - first:
+      213: -5007878909141819152
+    second: Majima_24
+  - first:
+      213: 1514451284631509937
+    second: Majima_25
+  - first:
+      213: -7389014794134263577
+    second: Majima_26
+  - first:
+      213: -9162416488892951023
+    second: Majima_27
+  - first:
+      213: 455511547510420268
+    second: Majima_28
+  - first:
+      213: 5399073314105055182
+    second: Majima_29
+  - first:
+      213: -1022456303133129397
+    second: Majima_30
+  - first:
+      213: -3399673085098687478
+    second: Majima_31
+  - first:
+      213: 5879566122310379415
+    second: Majima_32
+  - first:
+      213: -8386137729122992080
+    second: Majima_33
+  - first:
+      213: 3958928439551455562
+    second: Majima_34
+  - first:
+      213: -5175416906948023006
+    second: Majima_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Majima_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5502715223b8ff270800000000000000
+      internalID: 8286494886871900245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf0ee5491d8cd560800000000000000
+      internalID: 7339896632393994169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd350553fec4240800000000000000
+      internalID: 4777456316993232132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9053a8a4a1efb4a00800000000000000
+      internalID: 741965952505754889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c816b79650a5090800000000000000
+      internalID: -8045111833744274365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d04d803771ae50800000000000000
+      internalID: 6818862361227614549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23e5bdbc9eeb6c0800000000000000
+      internalID: -4125603146856779097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1000
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c80080a322d210800000000000000
+      internalID: 1356185610041738221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1000
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02618c26215b7ac30800000000000000
+      internalID: 4370661053957674528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1000
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01d19eab66bac3d0800000000000000
+      internalID: -3185533212804656885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1000
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de2ad94a635c4af0800000000000000
+      internalID: -410861750026883375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1000
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb9f1521988d6f30800000000000000
+      internalID: 4570459353825385456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608e6cd55994b8030800000000000000
+      internalID: 3497970441455593478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 750
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58975a9cf285042f0800000000000000
+      internalID: -990694955751736955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 750
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5342a6344c0793e00800000000000000
+      internalID: 1024974378450428981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 750
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dff2628eedfc920800000000000000
+      internalID: 3012871764388609330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 750
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e54a85b2adc5930800000000000000
+      internalID: 4133418437724888625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_17
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 750
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0436d34cfcff30800000000000000
+      internalID: 4610837486807288334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5463c0ba141ca3940800000000000000
+      internalID: 5276742401204696645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 500
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e74593090f82c740800000000000000
+      internalID: 5170852591052343273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 500
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66939bb27bf7876c0800000000000000
+      internalID: -4145423032305239706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 500
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5601280fd4e7ab0800000000000000
+      internalID: -5008480040219810388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5d3ea20936d26b0800000000000000
+      internalID: -5319486114008672828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 500
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef86b0584616eb80800000000000000
+      internalID: -8365974757946519582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06e6e3aa0708ab0800000000000000
+      internalID: -5007878909141819152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb58126b69640510800000000000000
+      internalID: 1514451284631509937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e865838132f47990800000000000000
+      internalID: -7389014794134263577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1169a577fbe88d080800000000000000
+      internalID: -9162416488892951023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23727cc65d425600800000000000000
+      internalID: 455511547510420268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_29
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 250
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d58bd29c5dea40800000000000000
+      internalID: 5399073314105055182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450465d8618fc1f0800000000000000
+      internalID: -1022456303133129397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a048c32675fe1d0d0800000000000000
+      internalID: -3399673085098687478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972bb9ac3a689150800000000000000
+      internalID: 5879566122310379415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0308f12ca247e9b80800000000000000
+      internalID: -8386137729122992080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41f7a2c070f0f630800000000000000
+      internalID: 3958928439551455562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Majima_35
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22defc06eb93d28b0800000000000000
+      internalID: -5175416906948023006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b103b8caf60f60409719516fc0b7f8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

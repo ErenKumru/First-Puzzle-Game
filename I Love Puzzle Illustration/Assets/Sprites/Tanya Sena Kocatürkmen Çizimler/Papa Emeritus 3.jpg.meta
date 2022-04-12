@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: fdc6e9a32af213b40b93de78c3cd4d5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8068058277413070974
+    second: Papa Emeritus 3_0
+  - first:
+      213: 720903002346099018
+    second: Papa Emeritus 3_1
+  - first:
+      213: 4416573650437537516
+    second: Papa Emeritus 3_2
+  - first:
+      213: 1175947675149543024
+    second: Papa Emeritus 3_3
+  - first:
+      213: 1683461704957626228
+    second: Papa Emeritus 3_4
+  - first:
+      213: 1352623916778435756
+    second: Papa Emeritus 3_5
+  - first:
+      213: 929846254155752229
+    second: Papa Emeritus 3_6
+  - first:
+      213: -6740000459256521238
+    second: Papa Emeritus 3_7
+  - first:
+      213: -3345675382902471952
+    second: Papa Emeritus 3_8
+  - first:
+      213: -5615999134910411174
+    second: Papa Emeritus 3_9
+  - first:
+      213: -33682109941152807
+    second: Papa Emeritus 3_10
+  - first:
+      213: -2037467891690064006
+    second: Papa Emeritus 3_11
+  - first:
+      213: 8885619516176311216
+    second: Papa Emeritus 3_12
+  - first:
+      213: -6390764022326647049
+    second: Papa Emeritus 3_13
+  - first:
+      213: 6011500257921329544
+    second: Papa Emeritus 3_14
+  - first:
+      213: 19778641119434637
+    second: Papa Emeritus 3_15
+  - first:
+      213: 6153767773237956330
+    second: Papa Emeritus 3_16
+  - first:
+      213: 3481608271881736555
+    second: Papa Emeritus 3_17
+  - first:
+      213: -217036386547140327
+    second: Papa Emeritus 3_18
+  - first:
+      213: 8819179585536789742
+    second: Papa Emeritus 3_19
+  - first:
+      213: -2289205334043760497
+    second: Papa Emeritus 3_20
+  - first:
+      213: 5554514251765489746
+    second: Papa Emeritus 3_21
+  - first:
+      213: 2008408249615633347
+    second: Papa Emeritus 3_22
+  - first:
+      213: -2954231623128591662
+    second: Papa Emeritus 3_23
+  - first:
+      213: -404646311065008858
+    second: Papa Emeritus 3_24
+  - first:
+      213: 3972086850646531913
+    second: Papa Emeritus 3_25
+  - first:
+      213: 2315900714620653740
+    second: Papa Emeritus 3_26
+  - first:
+      213: -6725686733856229022
+    second: Papa Emeritus 3_27
+  - first:
+      213: 4016854670173166842
+    second: Papa Emeritus 3_28
+  - first:
+      213: -8063219882687606064
+    second: Papa Emeritus 3_29
+  - first:
+      213: 4943492876496802887
+    second: Papa Emeritus 3_30
+  - first:
+      213: 2834664671600988163
+    second: Papa Emeritus 3_31
+  - first:
+      213: -1960578167675196038
+    second: Papa Emeritus 3_32
+  - first:
+      213: -2379151138024781247
+    second: Papa Emeritus 3_33
+  - first:
+      213: -5002085960273920189
+    second: Papa Emeritus 3_34
+  - first:
+      213: 1068594856423985457
+    second: Papa Emeritus 3_35
+  - first:
+      213: -8003270880742886976
+    second: Papa Emeritus 3_36
+  - first:
+      213: -8598628677287471405
+    second: Papa Emeritus 3_37
+  - first:
+      213: -5708967542107506044
+    second: Papa Emeritus 3_38
+  - first:
+      213: 4377725607673153488
+    second: Papa Emeritus 3_39
+  - first:
+      213: 7150621646363465143
+    second: Papa Emeritus 3_40
+  - first:
+      213: 3757691394105491071
+    second: Papa Emeritus 3_41
+  - first:
+      213: 8142807685641044353
+    second: Papa Emeritus 3_42
+  - first:
+      213: 7088995441690854146
+    second: Papa Emeritus 3_43
+  - first:
+      213: -866256555624886750
+    second: Papa Emeritus 3_44
+  - first:
+      213: 125485466193559392
+    second: Papa Emeritus 3_45
+  - first:
+      213: 3927855498201501590
+    second: Papa Emeritus 3_46
+  - first:
+      213: -7150884256407738424
+    second: Papa Emeritus 3_47
+  - first:
+      213: 8121505637510623317
+    second: Papa Emeritus 3_48
+  - first:
+      213: -5699341428776267032
+    second: Papa Emeritus 3_49
+  - first:
+      213: -4035688217839655472
+    second: Papa Emeritus 3_50
+  - first:
+      213: -6685790832557336632
+    second: Papa Emeritus 3_51
+  - first:
+      213: -1406316879704620811
+    second: Papa Emeritus 3_52
+  - first:
+      213: 7822868332150171441
+    second: Papa Emeritus 3_53
+  - first:
+      213: 5289822559955429824
+    second: Papa Emeritus 3_54
+  - first:
+      213: 4751438209526095257
+    second: Papa Emeritus 3_55
+  - first:
+      213: -4051755862510111638
+    second: Papa Emeritus 3_56
+  - first:
+      213: 7038781289943063659
+    second: Papa Emeritus 3_57
+  - first:
+      213: -7586501456629344824
+    second: Papa Emeritus 3_58
+  - first:
+      213: 5264604196946379525
+    second: Papa Emeritus 3_59
+  - first:
+      213: -4214741838958972819
+    second: Papa Emeritus 3_60
+  - first:
+      213: -3994100676807195542
+    second: Papa Emeritus 3_61
+  - first:
+      213: 5443256043995117543
+    second: Papa Emeritus 3_62
+  - first:
+      213: 6967784105414690743
+    second: Papa Emeritus 3_63
+  - first:
+      213: -7514682565904960447
+    second: Papa Emeritus 3_64
+  - first:
+      213: 2588690056052805059
+    second: Papa Emeritus 3_65
+  - first:
+      213: 6006974117448819540
+    second: Papa Emeritus 3_66
+  - first:
+      213: -1188973888571961226
+    second: Papa Emeritus 3_67
+  - first:
+      213: -6240528884406993174
+    second: Papa Emeritus 3_68
+  - first:
+      213: -7948642568572578887
+    second: Papa Emeritus 3_69
+  - first:
+      213: -7754181789453583922
+    second: Papa Emeritus 3_70
+  - first:
+      213: -5919236205931167174
+    second: Papa Emeritus 3_71
+  - first:
+      213: 6362457038277725262
+    second: Papa Emeritus 3_72
+  - first:
+      213: 714523509081457066
+    second: Papa Emeritus 3_73
+  - first:
+      213: 4298200144801126799
+    second: Papa Emeritus 3_74
+  - first:
+      213: 3356319893823442972
+    second: Papa Emeritus 3_75
+  - first:
+      213: 5143835620782549211
+    second: Papa Emeritus 3_76
+  - first:
+      213: 920683997311454978
+    second: Papa Emeritus 3_77
+  - first:
+      213: -3009665860696342746
+    second: Papa Emeritus 3_78
+  - first:
+      213: 4123755066491092812
+    second: Papa Emeritus 3_79
+  - first:
+      213: -7501298214875245798
+    second: Papa Emeritus 3_80
+  - first:
+      213: -5179920544653701406
+    second: Papa Emeritus 3_81
+  - first:
+      213: -3656189228052977870
+    second: Papa Emeritus 3_82
+  - first:
+      213: -8359105361234897250
+    second: Papa Emeritus 3_83
+  - first:
+      213: -5795302446607503996
+    second: Papa Emeritus 3_84
+  - first:
+      213: 453837540800039013
+    second: Papa Emeritus 3_85
+  - first:
+      213: -7890387203473049636
+    second: Papa Emeritus 3_86
+  - first:
+      213: 7165432868927042890
+    second: Papa Emeritus 3_87
+  - first:
+      213: 5404631277092030534
+    second: Papa Emeritus 3_88
+  - first:
+      213: 400146915122937776
+    second: Papa Emeritus 3_89
+  - first:
+      213: -363128286767995470
+    second: Papa Emeritus 3_90
+  - first:
+      213: 2339933703006545565
+    second: Papa Emeritus 3_91
+  - first:
+      213: 6698802118865771499
+    second: Papa Emeritus 3_92
+  - first:
+      213: -4111269478976601146
+    second: Papa Emeritus 3_93
+  - first:
+      213: -5946630279312554241
+    second: Papa Emeritus 3_94
+  - first:
+      213: 5845477366431935986
+    second: Papa Emeritus 3_95
+  - first:
+      213: -5173640528162778302
+    second: Papa Emeritus 3_96
+  - first:
+      213: 3359490981488112269
+    second: Papa Emeritus 3_97
+  - first:
+      213: -181781140988054157
+    second: Papa Emeritus 3_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Papa Emeritus 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2650.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e782b54c14087ff60800000000000000
+      internalID: 8068058277413070974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2650.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a411a5c0679210a00800000000000000
+      internalID: 720903002346099018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2650.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceefda6c552da4d30800000000000000
+      internalID: 4416573650437537516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2650.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0762cbb1e2ec15010800000000000000
+      internalID: 1175947675149543024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2650.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47709f4508bdc5710800000000000000
+      internalID: 1683461704957626228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2650.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4b64a294c75c210800000000000000
+      internalID: 1352623916778435756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2650.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5236eaadd3a77ec00800000000000000
+      internalID: 929846254155752229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2650.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9b08da45b672a0800000000000000
+      internalID: -6740000459256521238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2650.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2445427f5c191d0800000000000000
+      internalID: -3345675382902471952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2385.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e83c8aa86ff02b0800000000000000
+      internalID: -5615999134910411174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2385.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d30ca9ac46588ff0800000000000000
+      internalID: -33682109941152807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2385.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77bc8a5fb579b3e0800000000000000
+      internalID: -2037467891690064006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2385.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a7f63fdf005b70800000000000000
+      internalID: 8885619516176311216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2385.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6afdd3bf17f47a0800000000000000
+      internalID: -6390764022326647049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_14
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2385.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889e19062a32d6350800000000000000
+      internalID: 6011500257921329544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2385.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87501eb194464000800000000000000
+      internalID: 19778641119434637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_16
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2385.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee481a8f23966550800000000000000
+      internalID: 6153767773237956330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_17
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2385.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b619294e648215030800000000000000
+      internalID: 3481608271881736555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2120.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919f58c6e8eecfcf0800000000000000
+      internalID: -217036386547140327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2120.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec0c466b15046a70800000000000000
+      internalID: 8819179585536789742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2120.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88646e90eb1b30e0800000000000000
+      internalID: -2289205334043760497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2120.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250a35c6849951d40800000000000000
+      internalID: 5554514251765489746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2120.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbcd4a79ac4fdb10800000000000000
+      internalID: 2008408249615633347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2120.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d13fadf57007d0800000000000000
+      internalID: -2954231623128591662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_24
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2120.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6254c41f258626af0800000000000000
+      internalID: -404646311065008858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_25
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2120.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f59c512ffaf1730800000000000000
+      internalID: 3972086850646531913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_26
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2120.9092
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca099060e6bb32020800000000000000
+      internalID: 2315900714620653740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26931fdbc8f89a2a0800000000000000
+      internalID: -6725686733856229022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1855.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc5a025a0cbeb730800000000000000
+      internalID: 4016854670173166842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1855.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2d98acc30b91090800000000000000
+      internalID: -8063219882687606064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_30
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1855.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74414455490da9440800000000000000
+      internalID: 4943492876496802887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_31
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1855.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30050280080c65720800000000000000
+      internalID: 2834664671600988163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_32
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1855.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d65594b80aac4e0800000000000000
+      internalID: -1960578167675196038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_33
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1855.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a011f25ae8bfed0800000000000000
+      internalID: -2379151138024781247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_34
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1855.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f77e14255059ab0800000000000000
+      internalID: -5002085960273920189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_35
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1855.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13116f93c5964de00800000000000000
+      internalID: 1068594856423985457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b710898baee090800000000000000
+      internalID: -8003270880742886976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1590.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d61bc686c88ba880800000000000000
+      internalID: -8598628677287471405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1590.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7272944ca5c0b0800000000000000
+      internalID: -5708967542107506044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_39
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1590.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d74d79fe3ec0cc30800000000000000
+      internalID: 4377725607673153488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_40
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1590.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b596b2708c1c3360800000000000000
+      internalID: 7150621646363465143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_41
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1590.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e3331f960062430800000000000000
+      internalID: 3757691394105491071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_42
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1590.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18184f89270110170800000000000000
+      internalID: 8142807685641044353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_43
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1590.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c85c8bcb216260800000000000000
+      internalID: 7088995441690854146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_44
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1590.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e00a590407af3f0800000000000000
+      internalID: -866256555624886750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1325.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff0fcdd50ddb100800000000000000
+      internalID: 125485466193559392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1325.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f8d53d3cb828630800000000000000
+      internalID: 3927855498201501590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_47
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1325.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c722e2e7a4f2cc90800000000000000
+      internalID: -7150884256407738424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_48
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1325.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5503725095265b070800000000000000
+      internalID: 8121505637510623317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_49
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1325.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e29f1cba2fd7e0b0800000000000000
+      internalID: -5699341428776267032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_50
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1325.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d52077a2fa5ef7c0800000000000000
+      internalID: -4035688217839655472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_51
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1325.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c75bde19ac4733a0800000000000000
+      internalID: -6685790832557336632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_52
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1325.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f00297bf32cb7ce0800000000000000
+      internalID: -1406316879704620811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_53
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1325.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137a67efc49609c60800000000000000
+      internalID: 7822868332150171441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9adf27799396940800000000000000
+      internalID: 5289822559955429824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1060.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d550b90ef70f140800000000000000
+      internalID: 4751438209526095257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_56
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1060.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a647a7a928545c7c0800000000000000
+      internalID: -4051755862510111638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_57
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1060.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd8b64a46cea160800000000000000
+      internalID: 7038781289943063659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_58
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1060.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5df95ce1557b690800000000000000
+      internalID: -7586501456629344824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_59
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1060.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030502cf91af0940800000000000000
+      internalID: 5264604196946379525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_60
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1060.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60bfdcc0aa3285c0800000000000000
+      internalID: -4214741838958972819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_61
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1060.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6482c9989a1298c0800000000000000
+      internalID: -3994100676807195542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_62
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1060.909
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7b3db48845a8b40800000000000000
+      internalID: 5443256043995117543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b70bda1aba82b060800000000000000
+      internalID: 6967784105414690743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 795.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144f963550c76b790800000000000000
+      internalID: -7514682565904960447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_65
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 795.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0d98f3efdce320800000000000000
+      internalID: 2588690056052805059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_66
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 795.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a08d222f0d5350800000000000000
+      internalID: 6006974117448819540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_67
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 795.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670147c3c8aef7fe0800000000000000
+      internalID: -1188973888571961226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_68
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 795.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee3b5a1b003569a0800000000000000
+      internalID: -6240528884406993174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_69
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 795.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3dea592bfb0b190800000000000000
+      internalID: -7948642568572578887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_70
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 795.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f0d3febc936490800000000000000
+      internalID: -7754181789453583922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_71
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 795.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3287db3806aadda0800000000000000
+      internalID: -5919236205931167174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c4a3177fcfb4850800000000000000
+      internalID: 6362457038277725262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 530.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa14776885f7ae900800000000000000
+      internalID: 714523509081457066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_74
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 530.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f895764424646ab30800000000000000
+      internalID: 4298200144801126799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_75
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 530.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c105cef292b049e20800000000000000
+      internalID: 3356319893823442972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_76
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 530.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8aebf6e33926740800000000000000
+      internalID: 5143835620782549211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_77
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 530.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc222b73de6cc00800000000000000
+      internalID: 920683997311454978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_78
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 530.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff29878d48b36d0800000000000000
+      internalID: -3009665860696342746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_79
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 530.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f3be662658a3930800000000000000
+      internalID: 4123755066491092812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_80
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 530.90906
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13d614640906e790800000000000000
+      internalID: -7501298214875245798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265.9091
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee0b2385b93d18b0800000000000000
+      internalID: -5179920544653701406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_82
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 265.9091
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ea46b44b924dc0800000000000000
+      internalID: -3656189228052977870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_83
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 265.9091
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96d78f56fd7efb80800000000000000
+      internalID: -8359105361234897250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_84
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 265.9091
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48de1003123f29fa0800000000000000
+      internalID: -5795302446607503996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_85
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 265.9091
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5688f1db6da5c4600800000000000000
+      internalID: 453837540800039013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_86
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 265.9091
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd773bcb4a6bf7290800000000000000
+      internalID: -7890387203473049636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_87
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 265.9091
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45fd4eea3bb07360800000000000000
+      internalID: 7165432868927042890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_88
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 265.9091
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6484905f28b110b40800000000000000
+      internalID: 5404631277092030534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_89
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 265.9091
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bffeddcf7b9d8500800000000000000
+      internalID: 400146915122937776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.90908813
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52c434fb8e5faf0800000000000000
+      internalID: -363128286767995470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0.90908813
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d966bad2e4d197020800000000000000
+      internalID: 2339933703006545565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_92
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0.90908813
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd0ab090de6fc50800000000000000
+      internalID: 6698802118865771499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_93
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0.90908813
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c1b9f036d1f6c0800000000000000
+      internalID: -4111269478976601146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_94
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0.90908813
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff64efe7443597da0800000000000000
+      internalID: -5946630279312554241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_95
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0.90908813
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fde2c0b1be4f1150800000000000000
+      internalID: 5845477366431935986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_96
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0.90908813
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2431b4bc9598338b0800000000000000
+      internalID: -5173640528162778302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_97
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0.90908813
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823ab19f3f4f9e20800000000000000
+      internalID: 3359490981488112269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papa Emeritus 3_98
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0.90908813
+        width: 213.33333
+        height: 265.0909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ba80f30f2a7df0800000000000000
+      internalID: -181781140988054157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cf7d6a0b808d6834b86aaf9e30538d3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

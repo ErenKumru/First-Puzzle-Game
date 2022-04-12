@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 050e7d255a2583841a94786273597363
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2930625949484026215
+    second: Johnny and Danny 2_0
+  - first:
+      213: -7161363291960307753
+    second: Johnny and Danny 2_1
+  - first:
+      213: -503972322948825974
+    second: Johnny and Danny 2_2
+  - first:
+      213: 3655730028706220441
+    second: Johnny and Danny 2_3
+  - first:
+      213: 2961190593836730982
+    second: Johnny and Danny 2_4
+  - first:
+      213: -2822144521419065722
+    second: Johnny and Danny 2_5
+  - first:
+      213: -3405343536407745288
+    second: Johnny and Danny 2_6
+  - first:
+      213: 7631775484268698775
+    second: Johnny and Danny 2_7
+  - first:
+      213: -4534275101577832710
+    second: Johnny and Danny 2_8
+  - first:
+      213: 4200971752372033589
+    second: Johnny and Danny 2_9
+  - first:
+      213: 7057653979828421027
+    second: Johnny and Danny 2_10
+  - first:
+      213: -6539110351762007340
+    second: Johnny and Danny 2_11
+  - first:
+      213: -4163333045743234335
+    second: Johnny and Danny 2_12
+  - first:
+      213: -3234197392233727461
+    second: Johnny and Danny 2_13
+  - first:
+      213: 2337538735066738100
+    second: Johnny and Danny 2_14
+  - first:
+      213: -7777016027634973489
+    second: Johnny and Danny 2_15
+  - first:
+      213: 1144701541494764849
+    second: Johnny and Danny 2_16
+  - first:
+      213: 1045339514805223482
+    second: Johnny and Danny 2_17
+  - first:
+      213: 2381461233977310360
+    second: Johnny and Danny 2_18
+  - first:
+      213: 4698592529659693167
+    second: Johnny and Danny 2_19
+  - first:
+      213: -4981344164986841274
+    second: Johnny and Danny 2_20
+  - first:
+      213: 4350907835421280220
+    second: Johnny and Danny 2_21
+  - first:
+      213: -6889435175123403220
+    second: Johnny and Danny 2_22
+  - first:
+      213: -5804470983782860716
+    second: Johnny and Danny 2_23
+  - first:
+      213: -3372090029633277234
+    second: Johnny and Danny 2_24
+  - first:
+      213: 8910934169024523365
+    second: Johnny and Danny 2_25
+  - first:
+      213: 3542541209093178665
+    second: Johnny and Danny 2_26
+  - first:
+      213: 8594185764570793633
+    second: Johnny and Danny 2_27
+  - first:
+      213: 5981347612138367188
+    second: Johnny and Danny 2_28
+  - first:
+      213: 434398425301839924
+    second: Johnny and Danny 2_29
+  - first:
+      213: 5468175418916163244
+    second: Johnny and Danny 2_30
+  - first:
+      213: 4801037998281758236
+    second: Johnny and Danny 2_31
+  - first:
+      213: -6557970504475709351
+    second: Johnny and Danny 2_32
+  - first:
+      213: 2004573190729954090
+    second: Johnny and Danny 2_33
+  - first:
+      213: 8129126278123692541
+    second: Johnny and Danny 2_34
+  - first:
+      213: 2947661668608217014
+    second: Johnny and Danny 2_35
+  - first:
+      213: -1363988689560597721
+    second: Johnny and Danny 2_36
+  - first:
+      213: -4702001978171354270
+    second: Johnny and Danny 2_37
+  - first:
+      213: 3632000423722325733
+    second: Johnny and Danny 2_38
+  - first:
+      213: 5137993129578230623
+    second: Johnny and Danny 2_39
+  - first:
+      213: 2294986261937839144
+    second: Johnny and Danny 2_40
+  - first:
+      213: 4399935324852290268
+    second: Johnny and Danny 2_41
+  - first:
+      213: 5072368787994149655
+    second: Johnny and Danny 2_42
+  - first:
+      213: -7086863805650091141
+    second: Johnny and Danny 2_43
+  - first:
+      213: -9075450138402928771
+    second: Johnny and Danny 2_44
+  - first:
+      213: 8898037932850297718
+    second: Johnny and Danny 2_45
+  - first:
+      213: 8584855722941047425
+    second: Johnny and Danny 2_46
+  - first:
+      213: -811743786164705672
+    second: Johnny and Danny 2_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Johnny and Danny 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1866.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996767fd9335457d0800000000000000
+      internalID: -2930625949484026215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1866.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0f2b470abd9c90800000000000000
+      internalID: -7161363291960307753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1866.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cb10aa7d78109f0800000000000000
+      internalID: -503972322948825974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1866.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99943cb9713cbb230800000000000000
+      internalID: 3655730028706220441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1866.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66acdd1f723481920800000000000000
+      internalID: 2961190593836730982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1866.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6867008928ab5d8d0800000000000000
+      internalID: -2822144521419065722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1866.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6e3e881acdb0d0800000000000000
+      internalID: -3405343536407745288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1866.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cde593e5389e960800000000000000
+      internalID: 7631775484268698775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af61e8891d40311c0800000000000000
+      internalID: -4534275101577832710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1493.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538d5931d89dc4a30800000000000000
+      internalID: 4200971752372033589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1493.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a18b4fc6e2d1f160800000000000000
+      internalID: 7057653979828421027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1493.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da5520e7c96045a0800000000000000
+      internalID: -6539110351762007340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1493.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e254d637aed836c0800000000000000
+      internalID: -4163333045743234335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1493.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1af9667b92dd13d0800000000000000
+      internalID: -3234197392233727461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1493.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd6e50481b907020800000000000000
+      internalID: 2337538735066738100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1493.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44c44902d721490800000000000000
+      internalID: -7777016027634973489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13533a2bcfbc2ef00800000000000000
+      internalID: 1144701541494764849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1120.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3005a110cac18e00800000000000000
+      internalID: 1045339514805223482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1120.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb491ff56ac0120800000000000000
+      internalID: 2381461233977310360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1120.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688ba2f201c43140800000000000000
+      internalID: 4698592529659693167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1120.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6479efdcfd5bedab0800000000000000
+      internalID: -4981344164986841274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1120.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7cfbccf97816c30800000000000000
+      internalID: 4350907835421280220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1120.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e30b3c53fc360a0800000000000000
+      internalID: -6889435175123403220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_23
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1120.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587f86c460627fa0800000000000000
+      internalID: -5804470983782860716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27211fbfde331d0800000000000000
+      internalID: -3372090029633277234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 747.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ce8912a6ff9ab70800000000000000
+      internalID: 8910934169024523365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 747.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9258e22e572a92130800000000000000
+      internalID: 3542541209093178665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 747.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a606fe3b6ea44770800000000000000
+      internalID: 8594185764570793633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 747.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d863a376f3020350800000000000000
+      internalID: 5981347612138367188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 747.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430fa17f01b470600800000000000000
+      internalID: 434398425301839924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_30
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 747.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae4506629cd2eb40800000000000000
+      internalID: 5468175418916163244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_31
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 747.6666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c169cb85f96b0a240800000000000000
+      internalID: 4801037998281758236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374.66666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9507c3162986df4a0800000000000000
+      internalID: -6557970504475709351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 374.66666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23fabf32bca1db10800000000000000
+      internalID: 2004573190729954090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 374.66666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df12bdda74570d070800000000000000
+      internalID: 8129126278123692541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 374.66666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf8d639ba238e820800000000000000
+      internalID: 2947661668608217014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_36
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 374.66666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b07197383221de0800000000000000
+      internalID: -1363988689560597721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 374.66666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26399e5fc122fbeb0800000000000000
+      internalID: -4702001978171354270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 374.66666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e699086425776230800000000000000
+      internalID: 3632000423722325733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_39
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 374.66666
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5378e27781dd4740800000000000000
+      internalID: 5137993129578230623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666565
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd43b88dd69df10800000000000000
+      internalID: 2294986261937839144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1.6666565
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd28388bdd5bf0d30800000000000000
+      internalID: 4399935324852290268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1.6666565
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7138b22c98ca46640800000000000000
+      internalID: 5072368787994149655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1.6666565
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7347a4aae666ad90800000000000000
+      internalID: -7086863805650091141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1.6666565
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7749b3de268d0280800000000000000
+      internalID: -9075450138402928771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1.6666565
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3e792b5e2c7b70800000000000000
+      internalID: 8898037932850297718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1.6666565
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18261e5abc8832770800000000000000
+      internalID: 8584855722941047425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Johnny and Danny 2_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1.6666565
+        width: 240
+        height: 373.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876a509c35b1cb4f0800000000000000
+      internalID: -811743786164705672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 878410930306bd141a28279b0ac727a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
