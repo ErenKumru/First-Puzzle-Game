@@ -1,5 +1,5 @@
-# Color Puzzle (To Be Changed)
-Color Puzzle is a 2D Hand-Drawn Jigsaw/Tile Puzzle Game Demo, Developed by [Eren Kumru](https://github.com/ErenKumru) and Illustrated by [Tanya Sena Kocatürkmen](https://www.artstation.com/tanymandias).
+# I Love Puzzle: Illustration
+I Love Puzzle: Illustration is a 2D Hand-Drawn Jigsaw/Tile Puzzle Game Demo, Developed by [Eren Kumru](https://github.com/ErenKumru) and Illustrated by [Tanya Sena Kocatürkmen](https://www.artstation.com/tanymandias).
 
 Musics by [Riot Games](https://sessions.riotgames.com/en-us/event/sessions/) -> [Sessions: Vi | A Creator-Safe Collection | Riot Games Music](https://www.youtube.com/watch?v=G8a45UZJGh4)
 
