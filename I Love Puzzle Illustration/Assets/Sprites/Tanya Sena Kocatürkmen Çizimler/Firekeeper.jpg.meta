@@ -1,0 +1,2424 @@
+fileFormatVersion: 2
+guid: 4f67c85dd62ba7a4a838cd5804e86ed7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6209456122782552669
+    second: Firekeeper_0
+  - first:
+      213: -8549058387517592992
+    second: Firekeeper_1
+  - first:
+      213: 1928515596238232922
+    second: Firekeeper_2
+  - first:
+      213: -9124511493230102380
+    second: Firekeeper_3
+  - first:
+      213: 1926431238847655884
+    second: Firekeeper_4
+  - first:
+      213: -3890654186091957882
+    second: Firekeeper_5
+  - first:
+      213: -5494243313160033828
+    second: Firekeeper_6
+  - first:
+      213: 7043340208908363832
+    second: Firekeeper_7
+  - first:
+      213: 2846641303821064318
+    second: Firekeeper_8
+  - first:
+      213: -1446579996124706994
+    second: Firekeeper_9
+  - first:
+      213: 6608109443535319243
+    second: Firekeeper_10
+  - first:
+      213: -1159534964079799132
+    second: Firekeeper_11
+  - first:
+      213: -8828216475329940034
+    second: Firekeeper_12
+  - first:
+      213: -1969360253217468691
+    second: Firekeeper_13
+  - first:
+      213: 6412052680770458372
+    second: Firekeeper_14
+  - first:
+      213: 7860102865186719210
+    second: Firekeeper_15
+  - first:
+      213: -1787647021756378525
+    second: Firekeeper_16
+  - first:
+      213: 4297641075122679814
+    second: Firekeeper_17
+  - first:
+      213: 7924574318166010190
+    second: Firekeeper_18
+  - first:
+      213: 1064522166041527837
+    second: Firekeeper_19
+  - first:
+      213: -5598889205984146378
+    second: Firekeeper_20
+  - first:
+      213: -7986779031819074676
+    second: Firekeeper_21
+  - first:
+      213: -2070222690883074026
+    second: Firekeeper_22
+  - first:
+      213: -4290585966636175067
+    second: Firekeeper_23
+  - first:
+      213: 7151096084040893147
+    second: Firekeeper_24
+  - first:
+      213: -8679905843334128861
+    second: Firekeeper_25
+  - first:
+      213: -3682220481103053809
+    second: Firekeeper_26
+  - first:
+      213: -3675065047511095928
+    second: Firekeeper_27
+  - first:
+      213: 5935077017606984594
+    second: Firekeeper_28
+  - first:
+      213: -4699598018277497091
+    second: Firekeeper_29
+  - first:
+      213: -6283482290755611536
+    second: Firekeeper_30
+  - first:
+      213: 3486095742030093640
+    second: Firekeeper_31
+  - first:
+      213: 6347099217516011913
+    second: Firekeeper_32
+  - first:
+      213: -2485516780601002224
+    second: Firekeeper_33
+  - first:
+      213: 6599249011036955997
+    second: Firekeeper_34
+  - first:
+      213: 5774124655836658539
+    second: Firekeeper_35
+  - first:
+      213: -6879728501701099830
+    second: Firekeeper_36
+  - first:
+      213: -5025921208094054956
+    second: Firekeeper_37
+  - first:
+      213: -288613422765804513
+    second: Firekeeper_38
+  - first:
+      213: 2973649142402408658
+    second: Firekeeper_39
+  - first:
+      213: 7129932343298211163
+    second: Firekeeper_40
+  - first:
+      213: -6242394758314518267
+    second: Firekeeper_41
+  - first:
+      213: -9216470182001978150
+    second: Firekeeper_42
+  - first:
+      213: -2788049496336753548
+    second: Firekeeper_43
+  - first:
+      213: 6146957822746227647
+    second: Firekeeper_44
+  - first:
+      213: -8516823628346358977
+    second: Firekeeper_45
+  - first:
+      213: -2693718589466060558
+    second: Firekeeper_46
+  - first:
+      213: -9031471977074481616
+    second: Firekeeper_47
+  - first:
+      213: -531524044457310278
+    second: Firekeeper_48
+  - first:
+      213: -7261471818659844281
+    second: Firekeeper_49
+  - first:
+      213: 4513262197199267458
+    second: Firekeeper_50
+  - first:
+      213: 7404558077356119864
+    second: Firekeeper_51
+  - first:
+      213: -422541892670854718
+    second: Firekeeper_52
+  - first:
+      213: -4698393801882573426
+    second: Firekeeper_53
+  - first:
+      213: -7732322543236540041
+    second: Firekeeper_54
+  - first:
+      213: -4655199862368549060
+    second: Firekeeper_55
+  - first:
+      213: -1624617976979977449
+    second: Firekeeper_56
+  - first:
+      213: -3283730585373470119
+    second: Firekeeper_57
+  - first:
+      213: -4981023181069559955
+    second: Firekeeper_58
+  - first:
+      213: 618186467858669301
+    second: Firekeeper_59
+  - first:
+      213: 2021621629927338907
+    second: Firekeeper_60
+  - first:
+      213: -3913331860096965470
+    second: Firekeeper_61
+  - first:
+      213: -7783781115626238523
+    second: Firekeeper_62
+  - first:
+      213: -2628621239341713016
+    second: Firekeeper_63
+  - first:
+      213: 321317936350250931
+    second: Firekeeper_64
+  - first:
+      213: -4331204073789561604
+    second: Firekeeper_65
+  - first:
+      213: -1842000721767928384
+    second: Firekeeper_66
+  - first:
+      213: 2180999650016243581
+    second: Firekeeper_67
+  - first:
+      213: 2084503840364867949
+    second: Firekeeper_68
+  - first:
+      213: 1133056814374730151
+    second: Firekeeper_69
+  - first:
+      213: -6395590073968650254
+    second: Firekeeper_70
+  - first:
+      213: 2484021996246522223
+    second: Firekeeper_71
+  - first:
+      213: -4592692501823305692
+    second: Firekeeper_72
+  - first:
+      213: -3825359540922623946
+    second: Firekeeper_73
+  - first:
+      213: -4543497782991947861
+    second: Firekeeper_74
+  - first:
+      213: 6103949488343783644
+    second: Firekeeper_75
+  - first:
+      213: -8551614254932759928
+    second: Firekeeper_76
+  - first:
+      213: 7141984524452536880
+    second: Firekeeper_77
+  - first:
+      213: -2050624575838370734
+    second: Firekeeper_78
+  - first:
+      213: 8807453072721017584
+    second: Firekeeper_79
+  - first:
+      213: -5790269890349251089
+    second: Firekeeper_80
+  - first:
+      213: -2683997417804671923
+    second: Firekeeper_81
+  - first:
+      213: 7120432122082088991
+    second: Firekeeper_82
+  - first:
+      213: -5980257839131412634
+    second: Firekeeper_83
+  - first:
+      213: 7201767744148154763
+    second: Firekeeper_84
+  - first:
+      213: -4270945671543482866
+    second: Firekeeper_85
+  - first:
+      213: -8660630985521771241
+    second: Firekeeper_86
+  - first:
+      213: -4653033337687903715
+    second: Firekeeper_87
+  - first:
+      213: -4387581691229785910
+    second: Firekeeper_88
+  - first:
+      213: 1121147603937277531
+    second: Firekeeper_89
+  - first:
+      213: -7698873151852085665
+    second: Firekeeper_90
+  - first:
+      213: -4849491999338235368
+    second: Firekeeper_91
+  - first:
+      213: -5231949074568631493
+    second: Firekeeper_92
+  - first:
+      213: 2621691605027474860
+    second: Firekeeper_93
+  - first:
+      213: -8992988184537143882
+    second: Firekeeper_94
+  - first:
+      213: -8718860990592028619
+    second: Firekeeper_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firekeeper_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adeb213e8493d9a0800000000000000
+      internalID: -6209456122782552669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1650
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aa0fff0b4ab5980800000000000000
+      internalID: -8549058387517592992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1650
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d949197b673ca10800000000000000
+      internalID: 1928515596238232922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1650
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498fc0104293f5180800000000000000
+      internalID: -9124511493230102380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1650
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfeabb410f0cba10800000000000000
+      internalID: 1926431238847655884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1650
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6813a1e91ae910ac0800000000000000
+      internalID: -3890654186091957882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1650
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9e78101d680c3b0800000000000000
+      internalID: -5494243313160033828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1650
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83865305a98feb160800000000000000
+      internalID: 7043340208908363832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7895350f2d418720800000000000000
+      internalID: 2846641303821064318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1500
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e470dc76827bcebe0800000000000000
+      internalID: -1446579996124706994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1500
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0b3d21788b4bb50800000000000000
+      internalID: 6608109443535319243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1500
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d069f71188efe0800000000000000
+      internalID: -1159534964079799132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1500
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb535bbb3efdb7580800000000000000
+      internalID: -8828216475329940034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1500
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee0338a84d6ba4e0800000000000000
+      internalID: -1969360253217468691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1500
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4031a6ec0ff2cf850800000000000000
+      internalID: 6412052680770458372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_15
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1500
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae50c7949e1b41d60800000000000000
+      internalID: 7860102865186719210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3621d6c41800137e0800000000000000
+      internalID: -1787647021756378525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1350
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b0d6b9c944ab30800000000000000
+      internalID: 4297641075122679814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1350
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49e77e2b5eb9fd60800000000000000
+      internalID: 7924574318166010190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1350
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164f6a1541f5ce00800000000000000
+      internalID: 1064522166041527837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1350
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ccb8c6eefbc42b0800000000000000
+      internalID: -5598889205984146378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1350
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c2ec49c2492190800000000000000
+      internalID: -7986779031819074676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_22
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1350
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61806ff5e671543e0800000000000000
+      internalID: -2070222690883074026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_23
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1350
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ff5cbbc6c474c0800000000000000
+      internalID: -4290585966636175067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2c1f3100ccd3360800000000000000
+      internalID: 7151096084040893147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1200
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b5b34af97ca8780800000000000000
+      internalID: -8679905843334128861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1200
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3f2f4bff16ecc0800000000000000
+      internalID: -3682220481103053809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1200
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885a5a48fcb8ffcc0800000000000000
+      internalID: -3675065047511095928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1200
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2939c052a11ad5250800000000000000
+      internalID: 5935077017606984594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_29
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1200
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6a07d708ca7ceb0800000000000000
+      internalID: -4699598018277497091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_30
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1200
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074dd0bd5269cc8a0800000000000000
+      internalID: -6283482290755611536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_31
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1200
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d94b47b99116030800000000000000
+      internalID: 3486095742030093640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981a3362c1d651850800000000000000
+      internalID: 6347099217516011913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1050
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017310928aba18dd0800000000000000
+      internalID: -2485516780601002224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1050
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55a43fd20e359b50800000000000000
+      internalID: 6599249011036955997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_35
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1050
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bf7f728cfc12050800000000000000
+      internalID: 5774124655836658539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_36
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1050
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb9f8c06b4680a0800000000000000
+      internalID: -6879728501701099830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_37
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1050
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a37a2a47504ab0800000000000000
+      internalID: -5025921208094054956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_38
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1050
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1472a20f93aefbf0800000000000000
+      internalID: -288613422765804513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_39
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1050
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d06a83d326844920800000000000000
+      internalID: 2973649142402408658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dbbd2b0bb92f260800000000000000
+      internalID: 7129932343298211163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 900
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50917ea7a0f8e59a0800000000000000
+      internalID: -6242394758314518267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 900
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4dace4335881080800000000000000
+      internalID: -9216470182001978150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_43
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 900
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c14aa31cbde49d0800000000000000
+      internalID: -2788049496336753548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_44
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 900
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f81262916e4550800000000000000
+      internalID: 6146957822746227647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_45
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 900
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3303c9b80a2ec980800000000000000
+      internalID: -8516823628346358977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_46
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 900
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8520ef63dfd9ad0800000000000000
+      internalID: -2693718589466060558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_47
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 900
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a49f6614c9a280800000000000000
+      internalID: -9031471977074481616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70b8c92b5af98f0800000000000000
+      internalID: -531524044457310278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 750
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f25469ad11a3b90800000000000000
+      internalID: -7261471818659844281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 750
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286e24a5e0452ae30800000000000000
+      internalID: 4513262197199267458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_51
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 750
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379f8f175642c660800000000000000
+      internalID: 7404558077356119864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_52
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 750
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e1a82364d22af0800000000000000
+      internalID: -422541892670854718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_53
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 750
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8564e7fab3fbceb0800000000000000
+      internalID: -4698393801882573426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_54
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 750
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77914a15d9541b490800000000000000
+      internalID: -7732322543236540041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_55
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 750
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c374315b368656fb0800000000000000
+      internalID: -4655199862368549060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b056abe823479e0800000000000000
+      internalID: -1624617976979977449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 600
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9529ab83e68dd62d0800000000000000
+      internalID: -3283730585373470119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 600
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67dc52bec9dfdab0800000000000000
+      internalID: -4981023181069559955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 600
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe5ba5315d349800800000000000000
+      internalID: 618186467858669301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_60
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 600
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b012592e3e0c10800000000000000
+      internalID: 2021621629927338907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_61
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 600
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4a3be286d01b9c0800000000000000
+      internalID: -3913331860096965470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_62
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 600
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd44b9c0547af390800000000000000
+      internalID: -7783781115626238523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_63
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 600
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8897dfbe8e2458bd0800000000000000
+      internalID: -2628621239341713016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b74e10f5fc857400800000000000000
+      internalID: 321317936350250931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 450
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf46c04b7d874e3c0800000000000000
+      internalID: -4331204073789561604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_66
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 450
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd62075a16ef66e0800000000000000
+      internalID: -1842000721767928384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_67
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 450
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f287250a7744e10800000000000000
+      internalID: 2180999650016243581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_68
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 450
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b2e9d235adec10800000000000000
+      internalID: 2084503840364867949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_69
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 450
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a934236b2d69bf00800000000000000
+      internalID: 1133056814374730151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_70
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 450
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7951886bc4e37a0800000000000000
+      internalID: -6395590073968650254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_71
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 450
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69d78c38d4097220800000000000000
+      internalID: 2484021996246522223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428c832b08a7340c0800000000000000
+      internalID: -4592692501823305692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_73
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 300
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638d721e3c799eac0800000000000000
+      internalID: -3825359540922623946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_74
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 300
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba77dfeb6d042f0c0800000000000000
+      internalID: -4543497782991947861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_75
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 300
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd898a338b595b450800000000000000
+      internalID: 6103949488343783644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_76
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 300
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae09eb420925980800000000000000
+      internalID: -8551614254932759928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_77
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 300
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a45bc51d6d1360800000000000000
+      internalID: 7141984524452536880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_78
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 300
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c77d10d7ba83e0800000000000000
+      internalID: -2050624575838370734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_79
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 300
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa757fd7eb5a3a70800000000000000
+      internalID: 8807453072721017584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5c7108634d4afa0800000000000000
+      internalID: -5790269890349251089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_81
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 150
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44dfa5a19680cad0800000000000000
+      internalID: -2683997417804671923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_82
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 150
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18dbf31a4bd0d260800000000000000
+      internalID: 7120432122082088991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_83
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 150
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667b3591e2bd10da0800000000000000
+      internalID: -5980257839131412634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_84
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 150
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8921d05b91d1f360800000000000000
+      internalID: 7201767744148154763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_85
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 150
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0698a84a8d8ab4c0800000000000000
+      internalID: -4270945671543482866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_86
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 150
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dcb3131024fc780800000000000000
+      internalID: -8660630985521771241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_87
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 150
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ff0b05da1d6fb0800000000000000
+      internalID: -4653033337687903715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0bd3fb2bd2c13c0800000000000000
+      internalID: -4387581691229785910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_89
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5636714ecd1f8f00800000000000000
+      internalID: 1121147603937277531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_90
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e7015a8ab182590800000000000000
+      internalID: -7698873151852085665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a785668b423bcb0800000000000000
+      internalID: -4849491999338235368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_92
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b276769026467b0800000000000000
+      internalID: -5231949074568631493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_93
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad494cdf9e126420800000000000000
+      internalID: 2621691605027474860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_94
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e06f94ec723380800000000000000
+      internalID: -8992988184537143882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firekeeper_95
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 137.5
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53070c1af12600780800000000000000
+      internalID: -8718860990592028619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6ab96ba7a0b09b741a2fe5d6758bff67
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

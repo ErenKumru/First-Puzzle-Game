@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 00caee0ca63662744807adc571d32507
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5278536381013549388
+    second: Kiryu_0
+  - first:
+      213: 3473982450476199587
+    second: Kiryu_1
+  - first:
+      213: -6190634217712167111
+    second: Kiryu_2
+  - first:
+      213: -1673449695002094395
+    second: Kiryu_3
+  - first:
+      213: -2796071837211315384
+    second: Kiryu_4
+  - first:
+      213: 7430324542389819316
+    second: Kiryu_5
+  - first:
+      213: -1513020882726247367
+    second: Kiryu_6
+  - first:
+      213: -2532544938533496323
+    second: Kiryu_7
+  - first:
+      213: 8156233428828983000
+    second: Kiryu_8
+  - first:
+      213: -8588900685088302354
+    second: Kiryu_9
+  - first:
+      213: -711999250225898272
+    second: Kiryu_10
+  - first:
+      213: 9123548086395443769
+    second: Kiryu_11
+  - first:
+      213: 1009787963075483042
+    second: Kiryu_12
+  - first:
+      213: -658746104206258679
+    second: Kiryu_13
+  - first:
+      213: -8421171154191867905
+    second: Kiryu_14
+  - first:
+      213: 1171616735708530835
+    second: Kiryu_15
+  - first:
+      213: -3280278472773120517
+    second: Kiryu_16
+  - first:
+      213: 6576173235797258037
+    second: Kiryu_17
+  - first:
+      213: -6352874844142065460
+    second: Kiryu_18
+  - first:
+      213: -3066862972816659990
+    second: Kiryu_19
+  - first:
+      213: 5748022096306674754
+    second: Kiryu_20
+  - first:
+      213: -7620303755407871157
+    second: Kiryu_21
+  - first:
+      213: 7541571413259582533
+    second: Kiryu_22
+  - first:
+      213: 2270322161733225064
+    second: Kiryu_23
+  - first:
+      213: -189068464586476324
+    second: Kiryu_24
+  - first:
+      213: -8544197963077051667
+    second: Kiryu_25
+  - first:
+      213: -6746549902760942996
+    second: Kiryu_26
+  - first:
+      213: -3631509503084429205
+    second: Kiryu_27
+  - first:
+      213: 7802668894563601116
+    second: Kiryu_28
+  - first:
+      213: -3176711195562192232
+    second: Kiryu_29
+  - first:
+      213: 2236935742557639879
+    second: Kiryu_30
+  - first:
+      213: 1482622636355246185
+    second: Kiryu_31
+  - first:
+      213: -6007064084346828126
+    second: Kiryu_32
+  - first:
+      213: -6550183085048921991
+    second: Kiryu_33
+  - first:
+      213: -1184555298883537145
+    second: Kiryu_34
+  - first:
+      213: 1886756502877227337
+    second: Kiryu_35
+  - first:
+      213: -2805572638019618076
+    second: Kiryu_36
+  - first:
+      213: -73925805831409272
+    second: Kiryu_37
+  - first:
+      213: -2838852247592483443
+    second: Kiryu_38
+  - first:
+      213: -6551429925063523677
+    second: Kiryu_39
+  - first:
+      213: 3081570116553860121
+    second: Kiryu_40
+  - first:
+      213: -1611562640954595208
+    second: Kiryu_41
+  - first:
+      213: 7431130699451083925
+    second: Kiryu_42
+  - first:
+      213: -1129397275965392240
+    second: Kiryu_43
+  - first:
+      213: -8699630086549361361
+    second: Kiryu_44
+  - first:
+      213: 6626373984447236004
+    second: Kiryu_45
+  - first:
+      213: -5882179257170976228
+    second: Kiryu_46
+  - first:
+      213: -8522721311698492130
+    second: Kiryu_47
+  - first:
+      213: -1792215809132945459
+    second: Kiryu_48
+  - first:
+      213: 176068256848788876
+    second: Kiryu_49
+  - first:
+      213: -1545763511744968427
+    second: Kiryu_50
+  - first:
+      213: -5931758700563491976
+    second: Kiryu_51
+  - first:
+      213: -2486863746125412790
+    second: Kiryu_52
+  - first:
+      213: 3308383222776230904
+    second: Kiryu_53
+  - first:
+      213: 678852350643312620
+    second: Kiryu_54
+  - first:
+      213: -7440395184987046924
+    second: Kiryu_55
+  - first:
+      213: -5048288927812123183
+    second: Kiryu_56
+  - first:
+      213: -2658789780906321485
+    second: Kiryu_57
+  - first:
+      213: 8076897831958756672
+    second: Kiryu_58
+  - first:
+      213: -6015405271045778459
+    second: Kiryu_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kiryu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41e9442fd0214940800000000000000
+      internalID: 5278536381013549388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1350
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae239cf1a0163030800000000000000
+      internalID: 3473982450476199587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1350
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93753e67af2761aa0800000000000000
+      internalID: -6190634217712167111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1350
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c41ae36e56b6c8e0800000000000000
+      internalID: -1673449695002094395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1350
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843bb807a7b5239d0800000000000000
+      internalID: -2796071837211315384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1350
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b71303cdc0dd1760800000000000000
+      internalID: 7430324542389819316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934aa53068ba00be0800000000000000
+      internalID: -1513020882726247367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1200
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df95ff0ebc79adcd0800000000000000
+      internalID: -2532544938533496323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1200
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de84860713c03170800000000000000
+      internalID: 8156233428828983000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1200
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead33635581ec880800000000000000
+      internalID: -8588900685088302354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1200
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd0f944787e16f0800000000000000
+      internalID: -711999250225898272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1200
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9bcc55aa5d9e70800000000000000
+      internalID: 9123548086395443769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a554956dcc730e00800000000000000
+      internalID: 1009787963075483042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1050
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e0d9d88e9abd6f0800000000000000
+      internalID: -658746104206258679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1050
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff90a9d37df12b80800000000000000
+      internalID: -8421171154191867905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1050
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3984fc0b63b624010800000000000000
+      internalID: 1171616735708530835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1050
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4ff1db1c1a72d0800000000000000
+      internalID: -3280278472773120517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_17
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1050
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f602547b2434b50800000000000000
+      internalID: 6576173235797258037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8a56cfcfd06d7a0800000000000000
+      internalID: -6352874844142065460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 900
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9e67a00605075d0800000000000000
+      internalID: -3066862972816659990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 900
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c947b64a315cf40800000000000000
+      internalID: 5748022096306674754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 900
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b65acb1e3f3690800000000000000
+      internalID: -7620303755407871157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 900
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf39f4e3b09a860800000000000000
+      internalID: 7541571413259582533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 900
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a4ec73afdc18f10800000000000000
+      internalID: 2270322161733225064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd43812bb3b406df0800000000000000
+      internalID: -189068464586476324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 750
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea1d20c839ec6980800000000000000
+      internalID: -8544197963077051667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 750
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62ec72bb907f52a0800000000000000
+      internalID: -6746549902760942996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 750
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608236f8594a9dc0800000000000000
+      internalID: -3631509503084429205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 750
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0470f406a84c60800000000000000
+      internalID: 7802668894563601116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_29
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 750
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8925282affd0ae3d0800000000000000
+      internalID: -3176711195562192232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4d580c4313b0f10800000000000000
+      internalID: 2236935742557639879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 600
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96858e7be65539410800000000000000
+      internalID: 1482622636355246185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 600
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0085ca0f92aca0800000000000000
+      internalID: -6007064084346828126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 600
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97003e140331915a0800000000000000
+      internalID: -6550183085048921991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7077d315b3d9f8fe0800000000000000
+      internalID: -1184555298883537145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_35
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 600
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c7abfa0b1f2a10800000000000000
+      internalID: 1886756502877227337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaf84fdc8a9019d0800000000000000
+      internalID: -2805572638019618076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 450
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8813fab0fdc59fef0800000000000000
+      internalID: -73925805831409272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_38
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 450
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d854e64fbee5a98d0800000000000000
+      internalID: -2838852247592483443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_39
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 450
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a289b1b135a415a0800000000000000
+      internalID: -6551429925063523677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_40
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 450
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e6a3b1bfe3ca20800000000000000
+      internalID: 3081570116553860121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_41
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 450
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8786c94015492a9e0800000000000000
+      internalID: -1611562640954595208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c2844dffda02760800000000000000
+      internalID: 7431130699451083925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 300
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09af9cb49239350f0800000000000000
+      internalID: -1129397275965392240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_44
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 300
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dace56784b44780800000000000000
+      internalID: -8699630086549361361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 300
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a70ed3e70c95fb50800000000000000
+      internalID: 6626373984447236004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122727712d4e5ea0800000000000000
+      internalID: -5882179257170976228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_47
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 300
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e156f805f1639b980800000000000000
+      internalID: -8522721311698492130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9ac79735c027e0800000000000000
+      internalID: -1792215809132945459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 150
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8db1b19525817200800000000000000
+      internalID: 176068256848788876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 150
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5194eaf96485c8ae0800000000000000
+      internalID: -1545763511744968427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_51
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 150
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873949fb3e82eada0800000000000000
+      internalID: -5931758700563491976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 150
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46c56f4992ec7dd0800000000000000
+      internalID: -2486863746125412790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_53
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 150
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f37076330db9ed20800000000000000
+      internalID: 3308383222776230904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7980fbd94cb6900800000000000000
+      internalID: 678852350643312620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbf15a00086eb890800000000000000
+      internalID: -7440395184987046924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5883697ffd0f9b0800000000000000
+      internalID: -5048288927812123183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9d3a8f7c41a1bd0800000000000000
+      internalID: -2658789780906321485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_58
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d3601f8c7e61070800000000000000
+      internalID: 8076897831958756672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryu_59
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3dd47e6ccf48ca0800000000000000
+      internalID: -6015405271045778459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8bc6bdb40e3604f4198311e9d24478f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
