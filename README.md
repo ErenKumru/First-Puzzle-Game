@@ -35,4 +35,4 @@ Musics by [Riot Games](https://sessions.riotgames.com/en-us/event/sessions/) -> 
 - **Illustrations** are **OWNED** by the **Artist** & **CAN NOT be used by any individual without DIRECT PERMISSION by the Illustrator.** Please, use the provided links to communicate before anything!
 - Can be thought of as an open to experiment whiteboard
 - Anyone can fork or download the project for studying & experimenting
-- **Any project that is based on this project MUST be a non-commercial, non-profitable public project & MUST DIRECTLY mention the developer's and artist's information provided above along with this github repository!**
+- **Any project that is based on this project MUST be a non-commercial, non-profitable public project & MUST DIRECTLY mention the Developer's and Artist's information provided above Along with This Github Repository!**
