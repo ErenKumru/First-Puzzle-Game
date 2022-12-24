@@ -22,6 +22,9 @@ Musics by [Riot Games](https://sessions.riotgames.com/en-us/event/sessions/) -> 
 - Comfortable, soothing & uplifting musics
 - Simple & fun gameplay
 
+### Example Levels & Art
+![Showcase Image](https://user-images.githubusercontent.com/44412775/209442654-41f57a70-e9b5-482c-a119-2617efb182c4.jpg)
+
 ### About The Development
 - Made with Unity & C#
 - Utilizing ScriptableObject
@@ -36,6 +39,3 @@ Musics by [Riot Games](https://sessions.riotgames.com/en-us/event/sessions/) -> 
 - Can be thought of as an open to experiment whiteboard
 - Anyone can fork or download the project for studying & experimenting
 - **Any project that is based on this project MUST be a non-commercial, non-profitable public project & MUST DIRECTLY mention the Developer's and Artist's information provided above along with This Github Repository!**
-
-### Example Levels & Art
-![Showcase Image](https://user-images.githubusercontent.com/44412775/209442654-41f57a70-e9b5-482c-a119-2617efb182c4.jpg)
