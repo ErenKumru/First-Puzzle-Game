@@ -38,4 +38,4 @@ Musics by [Riot Games](https://sessions.riotgames.com/en-us/event/sessions/) -> 
 - **Any project that is based on this project MUST be a non-commercial, non-profitable public project & MUST DIRECTLY mention the Developer's and Artist's information provided above along with This Github Repository!**
 
 ### Multimedia
-![Firekeeper](https://github.com/ErenKumru/I-Love-Puzzle-Illustration/blob/main/I%20Love%20Puzzle%20Illustration/Assets/Sprites/Tanya%20Sena%20Kocat%C3%BCrkmen%20%C3%87izimler/Firekeeper%20-%20img.jpg)
+![Showcase Image](https://user-images.githubusercontent.com/44412775/209442654-41f57a70-e9b5-482c-a119-2617efb182c4.jpg)
